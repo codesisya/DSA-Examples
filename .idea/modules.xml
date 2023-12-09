@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BackTrack/BackTrack.iml" filepath="$PROJECT_DIR$/BackTrack/BackTrack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" filepath="$PROJECT_DIR$/CollectionExamples/CollectionExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons/Commons.iml" filepath="$PROJECT_DIR$/Commons/Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphExamples/GraphExamples.iml" filepath="$PROJECT_DIR$/GraphExamples/GraphExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExamples/JavaExamples.iml" filepath="$PROJECT_DIR$/JavaExamples/JavaExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Math/Math.iml" filepath="$PROJECT_DIR$/Math/Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermComb/PermComb.iml" filepath="$PROJECT_DIR$/PermComb/PermComb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/Recursion.iml" filepath="$PROJECT_DIR$/recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringExample/StringExample.iml" filepath="$PROJECT_DIR$/StringExample/StringExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1/Test1.iml" filepath="$PROJECT_DIR$/Test1/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadExamples/ThreadExamples.iml" filepath="$PROJECT_DIR$/ThreadExamples/ThreadExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeExamples/TreeExamples.iml" filepath="$PROJECT_DIR$/TreeExamples/TreeExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdastream/lambdastream.iml" filepath="$PROJECT_DIR$/lambdastream/lambdastream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysqlexamples/mysqlexamples.iml" filepath="$PROJECT_DIR$/mysqlexamples/mysqlexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp.iml" filepath="$PROJECT_DIR$/testApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertx-example/vertx-example.iml" filepath="$PROJECT_DIR$/vertx-example/vertx-example.iml" />
+    </modules>
+  </component>
+</project>
